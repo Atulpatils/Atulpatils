@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Atul Sangokar
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, SQL , Tableau
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on DS project
+
+
+    
 - 📫 How to reach me atulpatil7169@gmail.com
 
 <!---
