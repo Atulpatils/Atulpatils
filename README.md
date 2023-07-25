@@ -1,5 +1,5 @@
 Hello there, my name is Atul Sangokar!
-I am a Data Science/Data Analytics enthusiast who is passionate about using Python, SQL,Power-BI and Tableau to analyze and visualize data. 
+I am a Data Science/Data Analytics enthusiast who is passionate about using Python,ML-AI, SQL,Power-BI and Tableau to analyze and visualize data. 
 Currently,I am learning about different data science techniques and algorithms to enhance my skills.
 
 I am excited to collaborate with other data scientists/Analyst on interesting data science projects.
