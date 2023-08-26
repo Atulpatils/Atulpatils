@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Sangokar</h1>
 <h3 align="center">A passionate Data Scientist/Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulpatils&label=Profile%20views&color=0e75b6&style=flat" alt="atulpatils" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Atulpatils](https://github.com/Atulpatils)
 
 - 📫 How to reach me **atulpatil7169@gmail.com**
