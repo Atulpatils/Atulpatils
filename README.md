@@ -5,12 +5,13 @@
 
 - 📫 How to reach me **atulpatil7169@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ekG2M1KMWWj5YLxh-owDU0mhzU0tF54l/view?usp=drive_link](https://drive.google.com/file/d/1ekG2M1KMWWj5YLxh-owDU0mhzU0tF54l/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atulpatil7169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulpatil7169" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul sangokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul sangokar" height="30" width="40" /></a>
 <a href="https://instagram.com/atul_sangokar_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_sangokar_patil" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@atulpatil7169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@atulpatil7169" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
