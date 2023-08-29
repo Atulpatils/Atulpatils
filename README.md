@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Sangokar</h1>
-<h3 align="center">A passionate Data Scientist/Data Analyst</h3>
+<h3 align="center">A Passionate Data Scientist/Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atulpatils](https://github.com/Atulpatils)
 
