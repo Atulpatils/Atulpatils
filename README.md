@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at here
 
-- 📫 How to reach me **atulpatil7169@gmail.com**
+- 📫 How to reach me **atulsangokar@yahoo.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ekG2M1KMWWj5YLxh-owDU0mhzU0tF54l/view?usp=drive_link](https://drive.google.com/file/d/1ekG2M1KMWWj5YLxh-owDU0mhzU0tF54l/view?usp=drive_link)
 
